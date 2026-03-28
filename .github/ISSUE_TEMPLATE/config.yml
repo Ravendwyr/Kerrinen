@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bluesky
+    url: https://bsky.app/profile/ravendwyr.bsky.social
+    about: Send a message on Bluesky.
+  - name: Twitch
+    url: https://www.twitch.tv/ravendwyr
+    about: Send a message on Twitch.
