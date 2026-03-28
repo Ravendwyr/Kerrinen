@@ -1,0 +1,22 @@
+{
+  "name": "kerrinen",
+  "version": "1.0.0",
+  "description": "Twitch chatbot for twitch.tv/ravendwyr",
+  "repository": "github:Ravendwyr/Kerrinen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ravendwyr/Kerrinen/issues"
+  },
+  "homepage": "https://github.com/Ravendwyr/Kerrinen#readme",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "@tmi.js/chat": "0.7.5",
+    "dotenv": "17.3.1",
+    "keyv-file": "5.3.3",
+    "vrchat": "2.21.7"
+  }
+}
