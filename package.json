@@ -17,6 +17,6 @@
     "@tmi.js/chat": "0.8.0",
     "dotenv": "17.4.2",
     "keyv-file": "5.3.5",
-    "vrchat": "2.21.7"
+    "vrchat": "2.22.7"
   }
 }
